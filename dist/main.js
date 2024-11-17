@@ -117,6 +117,8 @@ __webpack_require__.r(__webpack_exports__);
 
 console.log(_js_nameChecker__WEBPACK_IMPORTED_MODULE_0__.checkForName);
 alert("I exist");
+alert("I exist");
+alert("I exist");
 })();
 
 /******/ })()
